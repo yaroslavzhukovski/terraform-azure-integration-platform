@@ -1,0 +1,9 @@
+location    = "swedencentral"
+name_prefix = "yariorders"
+environment = "main"
+system      = "orders"
+
+tags = {
+  owner = "yaroslav"
+  iac   = "terraform"
+}

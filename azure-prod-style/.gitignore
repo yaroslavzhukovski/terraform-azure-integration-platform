@@ -1,0 +1,33 @@
+# Terraform
+**/.terraform/**
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform plan/output artifacts
+**/tfplan
+**/*.tfplan
+**/plan.txt
+
+# Build artifacts
+**/bin/
+**/obj/
+**/publish/
+
+# Local secrets / keys
+**/local.settings.json
+**/id_rsa*
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
