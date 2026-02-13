@@ -38,7 +38,7 @@ Business request flow:
 
 ## Architecture Diagram
 
-![Enterprise Azure Integration Platform Architecture](diagram/diagram1.svg)
+![Enterprise Azure Integration Platform Architecture](azure-prod-style/diagram/diagram1.svg)
 
 ## Security Implementation
 
